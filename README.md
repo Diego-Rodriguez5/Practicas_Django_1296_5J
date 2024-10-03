@@ -7,7 +7,7 @@ Aquí se realizan las practicas en Django que es un Framework Marco de trabajo U
 - 4 Abrir terminal en Vs code
 - 5 Verificar que este instalado Python     -->  -- version
 - 6 Crear entorno virtual                   -->  py -3 -m venv .venv
-- 7 Activar entorno virtual                 -->  .venv\scripts\activate
+- 7 Activar entorno virtual                 -->  .venv\scripts\activate.bat
 - 8 Seleccionar interprete de python        -->  presione F1
 - 9 Actualizar pip                          -->  python -m pip install --upgrade pip
 - 10 Instalar Framework Django              -->  python -m pip install django
